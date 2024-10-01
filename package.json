@@ -1,0 +1,19 @@
+{
+  "name": "myjsbackend",
+  "version": "1.0.0",
+  "description": "A basic application for backend ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "JS",
+    "node",
+    "Backend"
+  ],
+  "author": "M.Shafiq",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
